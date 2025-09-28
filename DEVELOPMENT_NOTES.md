@@ -2,7 +2,7 @@
 # Development Notes – Interactive Dashboard Project
 
 ## Author
-**Rejoice Kaulumah**
+**Rejoice Kaulumah-224061135**
 
 ---
 
@@ -117,3 +117,6 @@ During development, I found the following parts particularly difficult:
 ## Conclusion
 
 This project provided hands-on experience with **interactive UI components**, responsive design, and user experience enhancements using vanilla JavaScript. Despite the challenges, I gained a deeper understanding of **DOM manipulation, event handling, and CSS customization**.
+
+# GITHUB REPOSITORY LINK 
+https://github.com/RejoiceKaulumah/starting-code.git
